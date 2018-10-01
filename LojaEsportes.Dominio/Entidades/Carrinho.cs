@@ -8,6 +8,7 @@ namespace LojaEsportes.Dominio.Entidades
 {
     //classe que representa
     //carrinho de compras
+    //Loja
     public class Carrinho
     {
         private List<CarrinhoItem> _itensCarrinho = new List<CarrinhoItem>();
