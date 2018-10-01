@@ -1,0 +1,34 @@
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Dominio\obj\Debug\LojaEsportes.Dominio.csprojResolveAssemblyReference.cache
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Dominio\bin\Debug\LojaEsportes.Dominio.dll.config
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Dominio\bin\Debug\LojaEsportes.Dominio.dll
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Dominio\bin\Debug\LojaEsportes.Dominio.pdb
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Dominio\bin\Debug\EntityFramework.dll
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Dominio\bin\Debug\EntityFramework.xml
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Dominio\obj\Debug\LojaEsportes.Dominio.dll
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Dominio\obj\Debug\LojaEsportes.Dominio.pdb
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Dominio\bin\Debug\LojaEsportes.Dominio.dll.config
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Dominio\bin\Debug\LojaEsportes.Dominio.dll
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Dominio\bin\Debug\LojaEsportes.Dominio.pdb
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Dominio\bin\Debug\EntityFramework.dll
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Dominio\bin\Debug\EntityFramework.SqlServer.dll
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Dominio\bin\Debug\EntityFramework.xml
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Dominio\bin\Debug\EntityFramework.SqlServer.xml
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Dominio\obj\Debug\LojaEsportes.Dominio.csprojAssemblyReference.cache
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Dominio\obj\Debug\LojaEsportes.Dominio.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Dominio\obj\Debug\LojaEsportes.Dominio.csproj.CopyComplete
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Dominio\obj\Debug\LojaEsportes.Dominio.dll
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Dominio\obj\Debug\LojaEsportes.Dominio.pdb
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Dominio\bin\Debug\LojaEsportes.Dominio.dll.config
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Dominio\bin\Debug\LojaEsportes.Dominio.dll
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Dominio\bin\Debug\LojaEsportes.Dominio.pdb
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Dominio\bin\Debug\EntityFramework.dll
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Dominio\bin\Debug\EntityFramework.SqlServer.dll
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Dominio\bin\Debug\EntityFramework.xml
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Dominio\bin\Debug\EntityFramework.SqlServer.xml
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Dominio\obj\Debug\LojaEsportes.Dominio.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Dominio\obj\Debug\LojaEsportes.Dominio.csproj.CopyComplete
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Dominio\obj\Debug\LojaEsportes.Dominio.dll
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Dominio\obj\Debug\LojaEsportes.Dominio.pdb
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Dominio\obj\Debug\LojaEsportes.Dominio.csprojAssemblyReference.cache

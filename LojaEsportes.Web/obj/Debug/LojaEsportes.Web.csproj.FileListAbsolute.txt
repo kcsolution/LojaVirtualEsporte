@@ -1,0 +1,92 @@
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\LojaEsportes.Web.dll.config
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\LojaEsportes.Web.dll
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\LojaEsportes.Web.pdb
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\EntityFramework.dll
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\EntityFramework.SqlServer.dll
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\LojaEsportes.Dominio.dll
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Helpers.dll
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Mvc.dll
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Razor.dll
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Webpages.Deployment.dll
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Webpages.dll
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Webpages.Razor.dll
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\LojaEsportes.Dominio.pdb
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\EntityFramework.xml
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\EntityFramework.SqlServer.xml
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Razor.xml
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Webpages.xml
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Webpages.Deployment.xml
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Webpages.Razor.xml
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Helpers.xml
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Mvc.xml
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\obj\Debug\LojaEsportes.Web.csprojResolveAssemblyReference.cache
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\obj\Debug\LojaEsportes.Web.dll
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\obj\Debug\LojaEsportes.Web.pdb
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\PagedList.dll
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\PagedList.Mvc.dll
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\PagedList.xml
+C:\CursoMVC\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\PagedList.Mvc.xml
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\LojaEsportes.Web.dll.config
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\LojaEsportes.Web.dll
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\LojaEsportes.Web.pdb
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\EntityFramework.dll
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\EntityFramework.SqlServer.dll
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\LojaEsportes.Dominio.dll
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\Microsoft.Web.Infrastructure.dll
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\PagedList.dll
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\PagedList.Mvc.dll
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Helpers.dll
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Mvc.dll
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Razor.dll
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Webpages.Deployment.dll
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Webpages.dll
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Webpages.Razor.dll
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\LojaEsportes.Dominio.pdb
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\LojaEsportes.Dominio.dll.config
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\EntityFramework.xml
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\EntityFramework.SqlServer.xml
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\PagedList.xml
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\PagedList.Mvc.xml
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Razor.xml
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Webpages.xml
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Webpages.Deployment.xml
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Webpages.Razor.xml
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Helpers.xml
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Mvc.xml
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\obj\Debug\LojaEsportes.Web.csprojAssemblyReference.cache
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\obj\Debug\LojaEsportes.Web.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\obj\Debug\LojaEsportes.Web.csproj.CopyComplete
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\obj\Debug\LojaEsportes.Web.dll
+G:\Meu Drive\Visual Studio 2017\Curso_ASPNET_MVC5_5_36-37\Aula36_1_LojaVirtual\LojaEsportesVirtual\LojaEsportes.Web\obj\Debug\LojaEsportes.Web.pdb
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\LojaEsportes.Web.dll.config
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\LojaEsportes.Web.dll
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\LojaEsportes.Web.pdb
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\EntityFramework.dll
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\EntityFramework.SqlServer.dll
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\LojaEsportes.Dominio.dll
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\Microsoft.Web.Infrastructure.dll
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\PagedList.dll
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\PagedList.Mvc.dll
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Helpers.dll
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Mvc.dll
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Razor.dll
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Webpages.Deployment.dll
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Webpages.dll
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Webpages.Razor.dll
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\LojaEsportes.Dominio.pdb
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\LojaEsportes.Dominio.dll.config
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\EntityFramework.xml
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\EntityFramework.SqlServer.xml
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\PagedList.xml
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\PagedList.Mvc.xml
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Razor.xml
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Webpages.xml
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Webpages.Deployment.xml
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Webpages.Razor.xml
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Helpers.xml
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\bin\System.Web.Mvc.xml
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\obj\Debug\LojaEsportes.Web.csprojAssemblyReference.cache
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\obj\Debug\LojaEsportes.Web.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\obj\Debug\LojaEsportes.Web.csproj.CopyComplete
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\obj\Debug\LojaEsportes.Web.dll
+G:\Meu Drive\Visual Studio 2017\Sistemas\LojaEsportesVirtual\LojaEsportes.Web\obj\Debug\LojaEsportes.Web.pdb
